@@ -9,10 +9,10 @@ name: Man i Svart
 author: Carl Nordin
 
 # Short bio or description (displayed in the header)
-description: An elegant Jekyll theme
+description: Me
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+avatar: https://avatars1.githubusercontent.com/u/9981362?s=460&v=4
 
 #
 # Flags below are optional
@@ -21,15 +21,15 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: amit.d.merchant@gmail.com
+  email: github@manisvart.se
   facebook:
   flickr:
-  github: amitmerchant1990/reverie
+  github: manisvart
   instagram:
   linkedin: 
   pinterest:
   rss: rss
-  twitter: amit_merchant
+  twitter: manisvart
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
