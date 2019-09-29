@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sharepoint to Neo4j
-categories: [Coding, Python, Graph]
+categories: [Projects, Coding, Python, Graph]
 ---
 At [work](https://www.arbetsformedlingen.se/Globalmeny/Other-languages/Languages/English-engelska.html){:target="_blank"} we have a homebuilt tool called "AFFIRM" which is a javascript frontend using [d3js](https://d3js.org){:target="_blank"} to visualize data from [Neo4j](https://neo4j.com){:target="_blank"}. The data in Neo4j comes from a SharePoint site and this automates the data transfer from Sharepoint to Neo4j.
 
