@@ -3,7 +3,7 @@ layout: post
 title: The Lake Water Irrigation Project
 categories: [Projects, HomeAutomation, Coding, Bash]
 ---
-[![](IMG_4306.jpg)](/images/lake_water_IMG_4306.jpg){:target="_blank"}
+[![](/images/lake_water_IMG_4306.jpg)](/images/lake_water_IMG_4306.jpg){:target="_blank"}
 
 ## Background
 
@@ -25,29 +25,29 @@ The picture below shows how the water network in the garden is constructed. The 
 
 Lake water contains a lot of biological material such as algae, humus etc. so filtration is needed to keep the valves functioning. The filter provides this for the system.
 
-[![](Irrigation.png)](/images/lake_water_Irrigation.png){:target="_blank"}
+[![](/images/lake_water_Irrigation.png)](/images/lake_water_Irrigation.png){:target="_blank"}
 
 In case of a valve malfunction the water will still be turned off since two valves, the main **and** the corresponding sprinkler valve must both be open for the water to flow.
 
 A valve:
 
-[![](IMG_4324.jpg)](/images/lake_water_IMG_4324.jpg){:target="_blank"}
+[![](/images/lake_water_IMG_4324.jpg)](/images/lake_water_IMG_4324.jpg){:target="_blank"}
 
 ## Electronics
 
 These are the basic connections:
 
-[![](raspberry.png)](/images/lake_water_raspberry.png){:target="_blank"}
+[![](/images/lake_water_raspberry.png)](/images/lake_water_raspberry.png){:target="_blank"}
 
 
 
 Here are some actual pictures of the build:
 
-[![](IMG_4296.jpg)](/images/lake_water_IMG_4296.jpg){:target="_blank"}
+[![](/images/lake_water_IMG_4296.jpg)](/images/lake_water_IMG_4296.jpg){:target="_blank"}
 
 
 
-[![](IMG_4297.jpg)](/images/lake_water_IMG_4297.jpg){:target="_blank"}
+[![](/images/lake_water_IMG_4297.jpg)](/images/lake_water_IMG_4297.jpg){:target="_blank"}
 
 
 
