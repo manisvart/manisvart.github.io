@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hack your Eltra Ultra Electric Scooter - Lock
-categories: [ElectricScooter]
+categories: [ElectricScooters]
 ---
 The [Eltra Ultra](https://eltrascooter.se/products/ultra){:target="_blank"} Electric Scooter from is very similar to, but not exactly the same as, the Speedway 4 from:
 
