@@ -14,7 +14,7 @@ As with any transportation device you need to adapt it to your needs.
 
 ------
 
-Security! The Ultra has lights, both forward facing and backwards facing that can be controlled by a switch on the handle bar. There's also extra "headlights" that is controlled by a switch to the right under the scooter.
+Security! The Ultra has lights, both forward facing and backwards facing that can be controlled by a switch on the handle bar. There's also extra "headlights" that is controlled by a switch to the left under the scooter.
 
 When traveling roads at dark, dusk or dawn together with cars and buses the lights are weak compared to the other vehicles. To get more visibility, use reflectors! The other vehicles light will bounce back at them, the more power they have, the more will you be seen. I bought the following kit intended for bikes "[Reflector set for bike](https://www.xxl.se/bits-reflector-set-for-bike-reflexset/p/1132478_1_style){:target="_blank"}". The white one is mounted with the supplied mount, but the others are mounted using Velcro tape.
 
